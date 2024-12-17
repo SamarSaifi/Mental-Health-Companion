@@ -12,27 +12,18 @@ The **Mental Health Companion** is an application designed to support individual
 - Easy-to-use interface with a focus on user privacy
 
 ## Installation
-To install and run the project locally, follow these steps:
+# Clone the repository:
+git clone https://github.com/SamarSaifi/Mental-Health-Companion.git
 
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/SamarSaifi/Mental-Health-Companion.git
-   \`\`\`
+# Navigate to the project directory:
+cd Mental-Health-Companion
 
-2. Navigate to the project directory:
-   \`\`\`bash
-   cd Mental-Health-Companion
-   \`\`\`
+# Install dependencies:
+npm install
 
-3. Install dependencies:
-   \`\`\`bash
-   npm install
-   \`\`\`
+# Start the application:
+npm start
 
-4. Start the application:
-   \`\`\`bash
-   npm start
-   \`\`\`
 
 ## Technologies Used
 - JavaScript
