@@ -18,17 +18,17 @@ To install and run the project locally, follow these steps:
    git clone https://github.com/SamarSaifi/Mental-Health-Companion.git
 Navigate to the project directory:
 
-bash
+```bash
 Copy code
 cd Mental-Health-Companion
 Install dependencies:
 
-bash
+```bash
 Copy code
 npm install
 Start the application:
 
-bash
+```bash
 Copy code
 npm start
 Technologies Used
