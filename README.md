@@ -33,17 +33,7 @@ npm start
 - Vite
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
 
 ## Contact
 Created by Samar Saifi
-" > README.md
-
-# Step 2: Add the README.md file to Git
-git add README.md
-
-# Step 3: Commit the file with a message
-git commit -m "Add README file"
-
-# Step 4: Push the changes to GitHub
-git push
