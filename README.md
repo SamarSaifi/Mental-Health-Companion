@@ -1,5 +1,4 @@
-# Step 1: Create the README.md file
-echo "# Mental-Health-Companion
+# Mental-Health-Companion
 
 ## Description
 The **Mental Health Companion** is an application designed to support individuals in managing their mental health. It provides various tools and resources to help users track their mood, get personalized suggestions, and find professional help when needed.
